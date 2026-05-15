@@ -7,3 +7,4 @@ go to http://openrouter.ai
 > set base for URL for claude code or create config for codex
 > add API keys + model or add provider +key 
 > launch cluade code using the command "claude" or launch codex with the command "codex"
+> then you can start shipping with those tools.
